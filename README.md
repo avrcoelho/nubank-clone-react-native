@@ -1,5 +1,5 @@
 <h1 align="center">
-Nubank Clone - React Native + Expo + Typescript
+Nubank Clone with React Native + Expo + Typescript
 </h1>
 
 <p align="center">
